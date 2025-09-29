@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DailyMinz</title>
+  
+  <subtitle>Daily mind, daily mints.</subtitle>
+  <link href="https://en.dailyminz.org/atom.xml" rel="self"/>
+  
+  <link href="https://en.dailyminz.org/"/>
+  <updated>2025-03-17T06:35:05.906Z</updated>
+  <id>https://en.dailyminz.org/</id>
+  
+  <author>
+    <name>Kawashima Iwami</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>🌐Online Arguments ABCs</title>
+    <link href="https://en.dailyminz.org/2025/03/11/Online-Arguments-ABCs/"/>
+    <id>https://en.dailyminz.org/2025/03/11/Online-Arguments-ABCs/</id>
+    <published>2025-03-11T08:25:26.000Z</published>
+    <updated>2025-03-17T06:35:05.906Z</updated>
+    
+    
+    <summary type="html">The magic of social media lies not only in its ability to connect people across distances but also in its ability to erase them. On the internet, a person exists in the eyes of others merely as a combination of data and self-narrative text. Stripped of their face, people seem to become &quot;bolder,&quot; less concerned with matters of &quot;saving face.&quot;</summary>
+    
+    
+    
+    <category term="Sketches" scheme="https://en.dailyminz.org/categories/Sketches/"/>
+    
+    
+    <category term="Internet" scheme="https://en.dailyminz.org/tags/Internet/"/>
+    
+    <category term="Daily" scheme="https://en.dailyminz.org/tags/Daily/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>🌐RSS Available Now</title>
+    <link href="https://en.dailyminz.org/2024/12/19/RSS-Available-Now/"/>
+    <id>https://en.dailyminz.org/2024/12/19/RSS-Available-Now/</id>
+    <published>2024-12-18T16:00:00.000Z</published>
+    <updated>2025-03-17T07:05:43.746Z</updated>
+    
+    
+    <summary type="html">RSS Feed function has been available. Readers are able to subscribe the site with RSS applications, reading the posts more conveniently.</summary>
+    
+    
+    
+    <category term="Announcement" scheme="https://en.dailyminz.org/categories/Announcement/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为何拒绝圣诞节？</title>
+    <link href="https://en.dailyminz.org/2024/12/15/Why-Refuse-Christmas/"/>
+    <id>https://en.dailyminz.org/2024/12/15/Why-Refuse-Christmas/</id>
+    <published>2024-12-15T15:28:55.000Z</published>
+    <updated>2025-06-25T03:53:20.725Z</updated>
+    
+    
+    <summary type="html">随着十二月接近尾声，圣诞节的脚步声也愈发临近。作为“耶诞日”，圣诞节在西方拥有深远的历史，且在基督教地区广为传播；后来，随着全球化进程的兴起，这一节日随之传播到世界其他地方，成为世界上最受欢迎的节日之一。最初的圣诞节，是作为基督教节日存在的，但是很明显，在今天，它已经世俗化了，并愈来愈受到来自不同文化背景的人群的接纳与欢迎。</summary>
+    
+    
+    
+    <category term="学科浅论" scheme="https://en.dailyminz.org/categories/%E5%AD%A6%E7%A7%91%E6%B5%85%E8%AE%BA/"/>
+    
+    
+    <category term="文化" scheme="https://en.dailyminz.org/tags/%E6%96%87%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>🌐Why I Open the Blog</title>
+    <link href="https://en.dailyminz.org/2024/11/30/Why-I-Open-the-Blog/"/>
+    <id>https://en.dailyminz.org/2024/11/30/Why-I-Open-the-Blog/</id>
+    <published>2024-11-30T06:02:28.000Z</published>
+    <updated>2025-03-17T05:45:18.622Z</updated>
+    
+    
+    <summary type="html">I have always wanted to document my thoughts and ideas, but for a long time, various reasons prevented me from doing so. Prolonged procrastination made me realize that many of my earlier reflections and ideas have already been lost in the desert of memory, difficult to retrieve. When I finally found a rare moment of respite to pick up the pen I had long set aside, I discovered the poverty of my knowledge and creativity. I realized that my language skills had been eroded by fragmented media, leaving me unable to effectively organize my thoughts and articulate complex feelings.</summary>
+    
+    
+    
+    <category term="Announcement" scheme="https://en.dailyminz.org/categories/Announcement/"/>
+    
+    
+  </entry>
+  
+</feed>
