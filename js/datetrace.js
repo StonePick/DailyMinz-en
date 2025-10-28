@@ -11,7 +11,7 @@
     if (interval > 3600*24*180*1000){
       var days = parseInt(interval / 86400000) /* 节点：180天 */
       posts[0].innerHTML = '<div class="note note-warning" style="font-size:0.9rem"><p>' +
-        '<div class="h6">🕗Timeliness Reminder</div><p>This is an article posted ' + days + ' ago, in which the content might have been outdated.' +
+        '<div class="h6">🕗Timeliness Reminder</div><p>This is an article posted ' + days + ' ago, which might have been outdated.' +
         '</p></p></div>' + posts[0].innerHTML;
     }
   })();
