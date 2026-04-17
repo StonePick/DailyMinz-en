@@ -6,7 +6,7 @@
   <link href="https://en.dailyminz.org/atom.xml" rel="self"/>
   
   <link href="https://en.dailyminz.org/"/>
-  <updated>2026-03-07T05:56:40.341Z</updated>
+  <updated>2026-04-17T17:34:43.485Z</updated>
   <id>https://en.dailyminz.org/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IndieWeb Book Club: To Live</title>
+    <link href="https://en.dailyminz.org/2026/04/18/IndieWeb-Book-Club-May-2026-To-Live/"/>
+    <id>https://en.dailyminz.org/2026/04/18/IndieWeb-Book-Club-May-2026-To-Live/</id>
+    <published>2026-04-17T17:04:23.000Z</published>
+    <updated>2026-04-17T17:34:43.485Z</updated>
+    
+    
+    <summary type="html">Welcome to IndieWeb Book Club May session! This month I invite you to read *To Live* (《活着》) by Chinese writer Yu Hua (余华, in which Yu is the family name).</summary>
+    
+    
+    
+    <category term="Announcement" scheme="https://en.dailyminz.org/categories/Announcement/"/>
+    
+    
+    <category term="Yu Hua" scheme="https://en.dailyminz.org/tags/Yu-Hua/"/>
+    
+    <category term="Fictions" scheme="https://en.dailyminz.org/tags/Fictions/"/>
+    
+    <category term="Literature" scheme="https://en.dailyminz.org/tags/Literature/"/>
+    
+  </entry>
   
   <entry>
     <title>🌐 2025 Annual Summary</title>
