@@ -6,7 +6,7 @@
   <link href="https://en.dailyminz.org/atom.xml" rel="self"/>
   
   <link href="https://en.dailyminz.org/"/>
-  <updated>2026-04-18T04:40:58.856Z</updated>
+  <updated>2026-04-28T10:31:07.166Z</updated>
   <id>https://en.dailyminz.org/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Loving You at the End of the World</title>
+    <link href="https://en.dailyminz.org/2026/04/28/Review-ZATO/"/>
+    <id>https://en.dailyminz.org/2026/04/28/Review-ZATO/</id>
+    <published>2026-04-28T04:53:30.000Z</published>
+    <updated>2026-04-28T10:31:07.166Z</updated>
+    
+    
+    <summary type="html">A bird flies past the window.</summary>
+    
+    
+    
+    <category term="Art Comment" scheme="https://en.dailyminz.org/categories/Art-Comment/"/>
+    
+    
+    <category term="Visual Novel" scheme="https://en.dailyminz.org/tags/Visual-Novel/"/>
+    
+    <category term="Denpa-kei" scheme="https://en.dailyminz.org/tags/Denpa-kei/"/>
+    
+  </entry>
+  
+  <entry>
     <title>IndieWeb Book Club: To Live</title>
     <link href="https://en.dailyminz.org/2026/04/18/IndieWeb-Book-Club-May-2026-To-Live/"/>
     <id>https://en.dailyminz.org/2026/04/18/IndieWeb-Book-Club-May-2026-To-Live/</id>
     <published>2026-04-17T17:04:23.000Z</published>
-    <updated>2026-04-18T04:40:58.856Z</updated>
+    <updated>2026-04-28T10:24:51.970Z</updated>
     
     
     <summary type="html">Welcome to IndieWeb Book Club May session! This month I invite you to read *To Live* (《活着》) by Chinese writer Yu Hua (余华, in which Yu is the family name).</summary>
@@ -33,7 +54,7 @@
     
     <category term="Yu Hua" scheme="https://en.dailyminz.org/tags/Yu-Hua/"/>
     
-    <category term="Fictions" scheme="https://en.dailyminz.org/tags/Fictions/"/>
+    <category term="Fiction" scheme="https://en.dailyminz.org/tags/Fiction/"/>
     
     <category term="Literature" scheme="https://en.dailyminz.org/tags/Literature/"/>
     
