@@ -11,7 +11,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="/img/fluid.png">
   <link rel="icon" href="/img/fluid.png">
   
-    <link rel="canonical" href="https://en.dailyminz.org/archives/2024/11/"/>
+    <link rel="canonical" href="https://en.dailyminz.org/page/2/"/>
   
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
@@ -25,8 +25,8 @@
   
     <meta name="description" content="Record my way to the knowledge.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Archives">
-<meta property="og:url" content="https://en.dailyminz.org/archives/2024/11/index.html">
+<meta property="og:title" content="DailyMinz">
+<meta property="og:url" content="https://en.dailyminz.org/page/2/index.html">
 <meta property="og:site_name" content="DailyMinz">
 <meta property="og:description" content="Record my way to the knowledge.">
 <meta property="og:locale" content="en_US">
@@ -36,7 +36,7 @@
   
   
   
-  <title>Archives - DailyMinz</title>
+  <title>DailyMinz</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -91,7 +91,7 @@
   <header>
     
 
-<div class="header-inner" style="height: 60vh;">
+<div class="header-inner" style="height: 100vh;">
   <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
@@ -241,13 +241,17 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle">Archives</span>
+            <span id="subtitle" data-typed-text="Record my way to the knowledge."></span>
           
         </div>
 
         
       </div>
 
+      
+        <div class="scroll-down-bar">
+          <i class="iconfont icon-arrowdown"></i>
+        </div>
       
     </div>
   </div>
@@ -261,30 +265,75 @@
     
       <div class="container nopadding-x-md">
         <div id="board"
-          >
+          style="margin-top: 0">
           
           <div class="container">
             <div class="row">
               <div class="col-12 col-md-10 m-auto">
                 
 
-<div class="list-group">
-  <p class="h4">11 posts in total</p>
-  <hr>
-  
-  
+
+  <div class="row mx-auto index-card">
     
+    
+    <article class="col-12 col-md-12 mx-auto index-info">
+      <h2 class="index-header">
+        
+        <a href="/2024/11/30/Why-I-Open-the-Blog/" target="_self">
+          🌐 Why I Open the Blog
+        </a>
+      </h2>
+
       
-      <p class="h5">2024</p>
-    
-    <a href="/2024/11/30/Why-I-Open-the-Blog/" class="list-group-item list-group-item-action">
-      <time>11-30</time>
-      <div class="list-group-item-title">🌐 Why I Open the Blog</div>
-    </a>
+      <a class="index-excerpt index-excerpt__noimg" href="/2024/11/30/Why-I-Open-the-Blog/" target="_self">
+        <div>
+          I have always wanted to document my thoughts and ideas, but for a long time, various reasons prevented me from doing so. Prolonged procrastination made me realize that many of my earlier reflections a
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2024-11-30 14:02" pubdate>
+              2024-11-30
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
   
-</div>
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/Announcement/" class="category-chain-item">Announcement</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+      </div>
+    </article>
+  </div>
 
 
+
+  <nav aria-label="navigation">
+    <span class="pagination" id="pagination">
+      <a class="extend prev" rel="prev" href="/"><i class="iconfont icon-arrowleft"></i></a><a class="page-number" href="/">1</a><span class="page-number current">2</span>
+    </span>
+  </nav>
 
 
 
@@ -360,6 +409,21 @@
 <script  src="/js/events.js" ></script>
 <script  src="/js/plugins.js" ></script>
 
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
 
 
 
